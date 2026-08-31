@@ -4,7 +4,7 @@ Hi, I'm Stefan — currently a SHEQ (Safety, Health, Environment, Quality) advis
 
 ## Why GRC?
 
-My years as a SHEQ advisor have given me hands-on experience with the core discipline GRC is built on: auditing against a standard, identifying gaps, assessing risk, and writing controls that people actually follow. I currently hold a NEBOSH General Certificate and an ISO 9001 auditor certification, and I'm applying that same audit-and-control mindset to information security — currently studying Google's Cybersecurity Certificate and building hands-on experience with GRC tooling with my lab.
+My years as a SHEQ advisor have given me hands-on experience with the core discipline GRC is built on: auditing against a standard, identifying gaps, assessing risk, and writing controls that people actually follow. I currently hold a NEBOSH General Certificate and an ISO 9001 auditor certification, and I'm applying that same audit and control mindset to information security. Building hands-on experience with a home lab, a GRC risk register for my current assets.
 
 The overlap is closer than it looks:
 
@@ -24,8 +24,9 @@ The overlap is closer than it looks:
 *(Links will go live as each project is published — see progress below.)*
 
 ## Currently learning
-- Google Cybersecurity Certificate (in progress)
-- Practical GRC tooling: Eramba, SQL for reporting
+- Google Cybersecurity Certificate (Completed)
+- GRC Mastery course (currently studying)
+- Practical GRC tooling: GRC-risk-register, SQL for reporting
 - Framework mapping: ISO 9001 → ISO 27001 / NIST CSF
 
 ## Get in touch
