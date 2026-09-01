@@ -2,7 +2,7 @@
 
 Hi, I'm Stefan 
 
-currently a SHEQ (Safety, Health, Environment, Quality) advisor transitioning into Governance, Risk, and Compliance (GRC), with a particular interest in how AI is reshaping the GRC function.
+currently a SHEQ (Safety, Health, Environment, Quality) advisor wanting to pivot into Cybersecurity GRC.
 
 ## Why GRC?
 
