@@ -19,7 +19,7 @@ The overlap is closer than it looks:
 
 ## What's in this portfolio
 - **[grc risk register](grc-risk-register/)**  A self-built risk register and control mapping tool spreadsheet, covering asset inventory, a Likelihood x Impact risk scoring model, and a control register mapped to all 93 ISO/IEC 27001:2022 Annex A controls via live lookups. Built from scratch rather than using an off the shelf GRC platform, to demonstrate the underlying structure (asset -> risk -> control) rather than just tool proficiency.
-- **[Home lab network segmentation](#)** A worked example of isolating a lab environment (Proxmox VMs) from a main network: an internal-only virtual bridge, controlled NAT egress, and least-privilege management access via SSH tunnel — mapped to Annex A control A.8.22 (Segregation of networks) in the risk register above. Includes a short write-up of an earlier attempt at router-level VLAN segmentation that ran into firmware limitations, and the reasoning behind changing the approach to a spreadsheet.  
+- **[Home lab network segmentation](Home-lab-network-segmentation/)** A worked example of isolating a lab environment (Proxmox VMs) from a main network: an internal-only virtual bridge, controlled NAT egress, and least-privilege management access via SSH tunnel — mapped to Annex A control A.8.22 (Segregation of networks) in the risk register above. Includes a short write-up of an earlier attempt at router-level VLAN segmentation that ran into firmware limitations, and the reasoning behind changing the approach to a spreadsheet.  
 - **[iso27001-gap-analysis](iso27001-gap-analysis/)**  A mock gap analysis and control matrix, applying ISO auditor methodology to an information security framework.
 - **[sql-for-grc](#)**  SQL queries against a mock asset/vulnerability dataset, written for GRC reporting use cases.
 - **[policy-writing-sample](#)**  A sample security policy/SOP, demonstrating documentation standards carried over from SHEQ practice.
@@ -34,4 +34,4 @@ The overlap is closer than it looks:
 
 ## Get in touch
 
-[LinkedIn] · [Email]
+[LinkedIn](https://www.linkedin.com/in/stefan-harrison-techiosh-3688b720a/) · [Email] · stefan_harrison@sky.com
