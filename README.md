@@ -6,9 +6,9 @@ currently a SHEQ (Safety, Health, Environment, Quality) advisor wanting to pivot
 
 ## Why GRC?
 
-My years as a SHEQ advisor have given me hands-on experience with the core discipline GRC is built on: auditing against a standard, identifying gaps, assessing risk, and writing controls that people actually follow. I currently hold a NEBOSH General Certificate and an ISO 9001 auditor certification, and I'm applying that same audit and control mindset to information security. Building hands-on experience with a home lab, a GRC risk register for my current assets.
+My years as a SHEQ advisor have given me hands-on experience with the core discipline GRC is built on: auditing against a standard, identifying gaps, assessing risk, and writing controls that people actually follow. I currently hold a NEBOSH General Certificate and an ISO 9001 auditor certification, and I'm applying that same audit and control mindset to information security. Building hands-on experience with a home lab, which will be documented here.
 
-The overlap is closer than it looks:
+The overlap between SHEQ and GRC is illustrated below:
 
 |SHEQ | GRC |
 |---|---|
