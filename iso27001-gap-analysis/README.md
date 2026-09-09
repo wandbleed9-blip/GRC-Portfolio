@@ -1,6 +1,6 @@
 # ISO/IEC 27001:2022 Gap Analysis — Summary
 
-> The full working spreadsheet (with dropdowns and live dashboard formulas) is [ISO27001_Gap_Analysis.xlsx](ISO27001_Gap_Analysis.xlsx). GitHub doesn't render `.xlsx` previews reliably, so this page shows the same content as plain tables.
+> The full working spreadsheet (with dropdowns and live dashboard formulas) is [ISO27001_Gap_Analysis.xlsx](ISO27001_Gap_Analysis.xlsx). GitHub doesn't render `.xlsx` previews well, so I have created a plain tables version for ease of reading.
 
 ## Summary
 
