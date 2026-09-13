@@ -22,7 +22,8 @@ The overlap between SHEQ and GRC is illustrated below:
 - **[Home lab network segmentation](Home-lab-network-segmentation/)** A worked example of isolating a lab environment (Proxmox VMs) from a main network: an internal-only virtual bridge, controlled NAT egress, and least-privilege management access via SSH tunnel — mapped to Annex A control A.8.22 (Segregation of networks) in the risk register above. Includes a short write-up of an earlier attempt at router-level VLAN segmentation that ran into firmware limitations, and the reasoning behind changing the approach to a spreadsheet.  
 - **[iso27001-gap-analysis](iso27001-gap-analysis/)**  A mock gap analysis and control matrix, applying ISO auditor methodology to an information security framework.
 - **[sql-for-grc](#)**  SQL queries against a mock asset/vulnerability dataset, written for GRC reporting use cases.
-- **[policy-writing-sample](#)**  A sample security policy/SOP, demonstrating documentation standards carried over from SHEQ practice.
+- **[policy-writing-sample](policy-writing-sample/)**  A sample security policy, written for the Homelab environment.
+- **[policy-reviews](policy-reviews/)** This will hold examples of various policy reviews that have been carried out.
 
 *(Links will go live as each project is published — see progress below.)*
 
